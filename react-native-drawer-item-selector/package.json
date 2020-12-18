@@ -1,0 +1,33 @@
+{
+  "name": "react-native-drawer-item-selector",
+  "version": "1.1.1",
+  "description": "Item Selector from given drawer component for React Native. Light Weight Component with maximum Customization features, Supports iOS and Android, No Configuration Required.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansh-099/react-native-drawer-item-selector.git"
+  },
+  "keywords": [
+    "react-native-drawer-item-selector",
+    "react-native-drawer-option-selector",
+    "react-native-drawer-selector",
+    "react-native-bottom-sheet",
+    "bottom-sheet-drawer",
+    "raw-bottom-sheet",
+    "bottom-drawer",
+    "drawer",
+    "selector",
+    "modal",
+    "animation-sheet",
+    "react-native"
+  ],
+  "author": "Anshul Singh <ansh.099@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansh-099/react-native-drawer-item-selector/issues"
+  },
+  "homepage": "https://github.com/ansh-099/react-native-drawer-item-selector#readme"
+}
