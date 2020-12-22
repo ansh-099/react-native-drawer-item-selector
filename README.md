@@ -4,16 +4,6 @@ The Package can be found at [react-native-drawer-item-selector](https://www.npmj
 
 Item Selector from given drawer component for React Native.
 
-* Maximum Customization
-* Max Lightweight Component
-* No Dependency, Configuration
-* Add Your own Component To Bottom Sheet
-* Support Gesture
-* Available for iOS and Android
-* Smooth Animation
-* Selector Shape Changeable(Dot, Square)
-* Dynamically adjust Title and Items
-
 <table>
         <tr>
 <td><img src = "https://user-images.githubusercontent.com/35291991/99704073-e2f7ac80-2abd-11eb-83fa-892078f2aeb1.PNG" height = "440" width="250"></td>
@@ -29,6 +19,18 @@ Item Selector from given drawer component for React Native.
 <td><img src = "https://user-images.githubusercontent.com/35291991/99704303-323ddd00-2abe-11eb-9d71-d497ed51f083.PNG" height = "440" width="250"></td>
        </tr>
 </table> 
+
+## Key Notes
+
+* Maximum Customization
+* Max Lightweight Component
+* No Dependency, No Configuration
+* Add Your own Component To Bottom Sheet
+* Support Gesture
+* Available for iOS and Android
+* Smooth Animation
+* Selector Shape Changeable(Dot, Square)
+* Dynamically adjust Title and Items
 
 ## Installation
 

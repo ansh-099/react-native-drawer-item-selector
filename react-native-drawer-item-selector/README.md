@@ -3,31 +3,33 @@ The Package can be found at [react-native-drawer-item-selector](https://www.npmj
 
 Item Selector from given drawer component for React Native.
 
+<table>
+        <tr>
+<td><img src = "https://user-images.githubusercontent.com/35291991/99704073-e2f7ac80-2abd-11eb-83fa-892078f2aeb1.PNG" height = "410" width="250"></td>
+<td><img src = "https://user-images.githubusercontent.com/35291991/99704092-e854f700-2abd-11eb-9600-afc0376163d1.PNG" height = "410" width="250"></td>
+<td><img src = "https://user-images.githubusercontent.com/35291991/99704183-09b5e300-2abe-11eb-852a-17a546ba72a1.PNG" height = "410" width="250"></td>
+       </tr>
+</table> 
+
+<table>
+        <tr>
+<td><img src = "https://user-images.githubusercontent.com/35291991/99704335-441f8000-2abe-11eb-9192-b1e45ec36ec4.PNG" height = "410" width="250"></td>
+<td><img src = "https://user-images.githubusercontent.com/35291991/99704375-513c6f00-2abe-11eb-9ed6-16c8c21f64f3.PNG" height = "410" width="250"></td>
+<td><img src = "https://user-images.githubusercontent.com/35291991/99704303-323ddd00-2abe-11eb-9d71-d497ed51f083.PNG" height = "410" width="250"></td>
+       </tr>
+</table> 
+
+## Key Notes
+
 * Maximum Customization
 * Max Lightweight Component
-* No Dependency, Configuration
+* No Dependency, No Configuration
 * Add Your own Component To Bottom Sheet
 * Support Gesture
 * Available for iOS and Android
 * Smooth Animation
 * Selector Shape Changeable(Dot, Square)
 * Dynamically adjust Title and Items
-
-<table>
-        <tr>
-<td><img src = "https://user-images.githubusercontent.com/35291991/99704073-e2f7ac80-2abd-11eb-83fa-892078f2aeb1.PNG" height = "420" width="250"></td>
-<td><img src = "https://user-images.githubusercontent.com/35291991/99704092-e854f700-2abd-11eb-9600-afc0376163d1.PNG" height = "420" width="250"></td>
-<td><img src = "https://user-images.githubusercontent.com/35291991/99704183-09b5e300-2abe-11eb-852a-17a546ba72a1.PNG" height = "420" width="250"></td>
-       </tr>
-</table> 
-
-<table>
-        <tr>
-<td><img src = "https://user-images.githubusercontent.com/35291991/99704335-441f8000-2abe-11eb-9192-b1e45ec36ec4.PNG" height = "420" width="250"></td>
-<td><img src = "https://user-images.githubusercontent.com/35291991/99704375-513c6f00-2abe-11eb-9ed6-16c8c21f64f3.PNG" height = "420" width="250"></td>
-<td><img src = "https://user-images.githubusercontent.com/35291991/99704303-323ddd00-2abe-11eb-9d71-d497ed51f083.PNG" height = "420" width="250"></td>
-       </tr>
-</table> 
 
 ## Installation
 
