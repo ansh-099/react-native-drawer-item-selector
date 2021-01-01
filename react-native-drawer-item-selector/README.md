@@ -1,7 +1,4 @@
-
-The Package can be found at [react-native-drawer-item-selector](https://www.npmjs.com/package/react-native-drawer-item-selector).
-
-Item Selector from given drawer component for React Native.
+Item Selector from given drawer items component for React Native.
 
 <table>
         <tr>

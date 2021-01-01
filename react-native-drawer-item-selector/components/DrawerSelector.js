@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { View, Dimensions, TouchableOpacity, FlatList, Text, Modal } from 'react-native';
 
 export default ({ index, setIndex, setDrawerSelector = () => { }, backgroundColor = '#2c2c2e', selector = 'dot', selectorColor = 'red', itemTextStyle = { color: '#ffffff' }, itemHeight = 60, itemContainerStyle = {}, seperatingLineColor = '#000000', title = 'Title', titleTextStyle = {}, titleContainerStyle = {}, data = [['1', 'Item 1', () => { }], ['2', 'Item 2', () => { }]], animationType = 'slide' }) => {
